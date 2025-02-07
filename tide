@@ -1,0 +1,1 @@
+game:GetService("Players").LocalPlayer:Kick("ACCOUNT DOES NOT MEET THE MINIMUM REQUIREMENTS TO RUN THE SCRIPT")
